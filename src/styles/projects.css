@@ -1,0 +1,19 @@
+/* styles to add to the project info */
+
+.projectInfo {
+    opacity: 0;
+    transition: opacity .25s;
+}
+
+.projectInfo > * {
+    transform: translateY(25px);
+    transition: transform .25s;
+}
+
+.projectInfo:hover {
+    opacity: .85;
+}
+
+.projectInfo:hover > * {
+    transform: translateY(0);
+}

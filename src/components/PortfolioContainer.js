@@ -5,6 +5,7 @@ import AboutMe from './pages/AboutMe';
 import ContactMe from './pages/ContactMe';
 import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
+import '../styles/projects.css';
 
 // default function export to be used in the app.js file
 export default function PortfolioContainer() {

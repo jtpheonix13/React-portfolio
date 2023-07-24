@@ -29,7 +29,7 @@ export default function AboutMe() {
         },
         img: {
             border: 'solid white 5px',
-            height: '45%',
+            height: '10%',
             marginBottom: '20px',
         },
         title: {
