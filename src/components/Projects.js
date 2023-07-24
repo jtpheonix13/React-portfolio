@@ -40,11 +40,11 @@ const styles = {
         height: '100%',
         width: '100%',
         background: 'black',
-        color: 'blue',
+        color: 'white',
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
-        borderRadius: '30px'
+        borderRadius: '20px'
     },
 };
 
