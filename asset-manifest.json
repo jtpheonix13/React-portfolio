@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.952bcd88.css",
+    "main.js": "/react-portfolio/static/js/main.87e9f9bc.js",
+    "static/media/audioRED.png": "/react-portfolio/static/media/audioRED.58ea0148b47a3d05e6c1.png",
+    "static/media/headshot.jpg": "/react-portfolio/static/media/headshot.300ee758311b9f1b4e3b.jpg",
+    "static/media/jsQuiz.png": "/react-portfolio/static/media/jsQuiz.20c3afa34755fa9cf183.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.e089a819321d4a63b9df.png",
+    "static/media/outnabout.png": "/react-portfolio/static/media/outnabout.2b39f9712ace26a557d2.png",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.525a40c2ab8d0cfd9c89.pdf",
+    "static/media/work-day.png": "/react-portfolio/static/media/work-day.0576e0073d99e62fc6f2.png",
+    "static/media/noteTaker.png": "/react-portfolio/static/media/noteTaker.d1f4035fedd90601ce45.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.952bcd88.css.map": "/react-portfolio/static/css/main.952bcd88.css.map",
+    "main.87e9f9bc.js.map": "/react-portfolio/static/js/main.87e9f9bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.952bcd88.css",
+    "static/js/main.87e9f9bc.js"
+  ]
+}
