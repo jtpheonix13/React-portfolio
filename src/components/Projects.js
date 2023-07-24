@@ -59,7 +59,7 @@ function Project({ projects }) {
                         <div style={styles.overlay} className='overlay'>
                             <a className='projectLink' style={styles.link} href={project.Url}>{project.name}</a>
                             <p>{project.code}</p>
-                            <a href={project.githubUrl}><FontAwesomeIcon className='gitHubIcon' icon={faGithubSquare} size='2X'/></a>
+                            <a href={project.githubUrl}><FontAwesomeIcon className='gitHubIcon' icon={faGithubSquare} size='2x'/></a>
                         </div>
                     </div>
                 </Col>

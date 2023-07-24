@@ -35,9 +35,9 @@ export default function Footer() {
         <div style={styles.footer}>
             {/* {Icons} */}
             <div style={styles.link}>
-                <a href="https://github.com/jtpheonix13"><FontAwesomeIcon className='icons' icon={ faGithubSquare } size='2X'/></a>
-                <a href="https://www.linkedin.com"><FontAwesomeIcon className='icons' icon={ faLinkedin } size='2X'/></a>
-                <a href="https://www.instagram.com/jeffreygtaylor13/"><FontAwesomeIcon className='icons' icon={ faInstagramSquare } size='2X'/></a>
+                <a href="https://github.com/jtpheonix13"><FontAwesomeIcon className='icons' icon={ faGithubSquare } size='2x'/></a>
+                <a href="https://www.linkedin.com"><FontAwesomeIcon className='icons' icon={ faLinkedin } size='2x'/></a>
+                <a href="https://www.instagram.com/jeffreygtaylor13/"><FontAwesomeIcon className='icons' icon={ faInstagramSquare } size='2x'/></a>
             </div>
         </div>
     );

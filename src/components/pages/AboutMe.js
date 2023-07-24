@@ -1,5 +1,5 @@
 import React from 'react';
-import headShot from '../../assets/images/Jeffrey Headshot_profile crop.jpg';
+import headShot from '../../assets/images/headshot.jpg';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
